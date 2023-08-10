@@ -1,1 +1,4 @@
-hola
+Miguel Angel Peña Marin 
+18
+-Recordar java
+-Aprender el uso de GIT como herramienta de trabajo colaborativo
