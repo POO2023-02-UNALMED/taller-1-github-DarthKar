@@ -1,0 +1,1 @@
+El commit no es posible porque git no reconoce carpetas vacias 
